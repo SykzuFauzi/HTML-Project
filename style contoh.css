@@ -79,7 +79,7 @@
         align-items: center;
         height: 90vh;
         text-align: center;
-        background-image: url("ELYTHRA.png");
+        background-image: url("IMG/ELYTHRA.png");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -271,4 +271,5 @@
         background: #BAA998;
         color: #EAE5DF;
         font-size: 0.9em;
+
     }
